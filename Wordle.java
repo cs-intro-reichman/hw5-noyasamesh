@@ -43,7 +43,7 @@ public class Wordle {
                 }
             }
         }
-        System.out.println(resultRow);
+        
     }
 
     // Store guess string (chars) into the given row of guesses 2D array.
